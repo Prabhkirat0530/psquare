@@ -1,0 +1,42 @@
+export default [
+    {
+        id: 1,
+        title: "Appliquéd sweatshirt",
+        price: 999.0,
+        img: "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F74%2F51%2F7451cc8227cbd9770c4c4133cf95b1e6f45aab6e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_sweatshirts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+        description: "Top in sweatshirt fabric made from a cotton blend with a soft brushed inside. Relaxed fit with dropped shoulders, long sleeves and ribbing around the neckline, cuffs and hem. Small metal text appliqué on the chest. ",
+        quantity: 1,
+    },
+    {
+        id: 2,
+        title: "Red Sweatshirt",
+        price: 650.0,
+        img: "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fac%2Fe2%2Face22b9fd9ff6b547f773ac2e97194cb4a935493.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_sweatshirts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+        description: "Top in sweatshirt fabric made from a cotton blend. Relaxed fit with dropped shoulders and ribbing around the neckline, cuffs and hem. Soft brushed inside.",
+        quantity: 1,
+    },
+    {
+        id: 3,
+        title: "Loose Jeans",
+        price: 1299.0,
+        img: "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7d%2F0c%2F7d0c8cd6e2c939e611dd20d4d05d0504bbc535ea.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+        description: "5-pocket jeans in rigid cotton denim with a rounded leg and a loose fit from the seat to the hem with a dropped crotch and extra room around the whole leg. Regular waist and a zip fly. All you need to conquer the full denim look.",
+        quantity: 1,
+    },
+    {
+        id: 4,
+        title: "Chunky Trainers",
+        price: 4599.0,
+        img: "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F3b%2F90%2F3b90c1280463e0d401ae9660d645b3c1c2d46e1a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+        description: "Padded trainers with a tongue and lacing at the front. Jersey linings and insoles and chunky rubber soles that are patterned underneath. Height of soles 6.5 cm.",
+        quantity: 1,
+    },
+    {
+        id: 5,
+        title: "Chelsea boots",
+        price: 2999.0,
+        img: "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F76%2F34%2F7634553feccb847de18ecb4fd9562fd0de070396.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+        description: "Chelsea boots in soft imitation suede with elastic gores in the sides and a loop at the back. Linings and insoles in imitation leather and cotton canvas. Fluted soles. Heel 2.7 cm.",
+        quantity: 1,
+    },
+];
