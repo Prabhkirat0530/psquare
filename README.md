@@ -1,6 +1,6 @@
-psquare
+# psquare
 
-
+## E-commerce website made with react, react redux and bootstrap.
 
 <div>
   <img src="ScreenShots/1.png" width="400px">
